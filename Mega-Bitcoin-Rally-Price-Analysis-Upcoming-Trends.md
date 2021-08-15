@@ -2,7 +2,7 @@
 
 The mood on the crypto markets is better than it has been for a long time. All major currencies have been gaining for three weeks. The lead currency Bitcoin has now cleared an important hurdle. This is a strong sign for the medium-term development.
 
-![Mega BTC Rally Analysis and Future Prediction](https://raw.githubusercontent.com/DanFinney/CryptocurrencyNews/main/btc-rally.jpg)
+![Mega BTC Rally Analysis and Future Prediction](https://raw.githubusercontent.com/DanFinney/CryptocurrencyNews/main/img/btc-rally.jpg)
 
 Bitcoin (BTC) continues its rally over the week and has now recaptured the GD200 at $45,118. This is a strong sign that the bulls have a firm grip on the wheel. This means that the price of one BTC has gained around 57 percent since July 21.
 
